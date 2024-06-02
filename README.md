@@ -1,5 +1,3 @@
-# iOS Project
-
 ## Stack
 
 - **Language**: Swift
